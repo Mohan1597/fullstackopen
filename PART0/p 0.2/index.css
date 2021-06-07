@@ -1,0 +1,23 @@
+body
+{
+    background-color:salmon;
+}
+  header
+{
+   text-align:center;
+   background-color:snow;
+}
+img
+{
+    position:center;
+}
+li
+{
+    text-align:center;
+    background-color:rgb(85, 126, 128);
+}
+h1
+{
+    text-align:center;
+    background-color:rgb(190, 42, 66);
+}
